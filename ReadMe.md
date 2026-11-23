@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👨‍💻 About Me<br><br>- 🔭 Working on Python Backend Development<br>- 🌱 Learning AI, Machine Learning & GenAI<br>- 💻 Building projects using Python, FastAPI & PostgreSQL<br>- ☁️ Exploring AWS and Cloud Technologies<br>- 🤝 Interested in collaborating on Python and AI projects<br>- 📫 Reach me through LinkedIn<br>- ⚡ Always curious to learn new technologies!
 
 
